@@ -1,0 +1,38 @@
+.krishna {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    gap: 10px;
+    font-size:25px;
+   
+}
+
+.krishna > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+
+.krishna button {
+    margin: 0 10px;
+    gap:10px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    opacity: 0.86;
+}
+.krishna button:disabled {
+    opacity: 0.8;
+    cursor: not-allowed;
+}
+
+.minus{
+    color:whitesmoke;
+    background-color: red;
+}
+.add{
+    color: whitesmoke;
+    background-color: green;
+}

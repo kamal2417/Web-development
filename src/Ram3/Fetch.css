@@ -1,0 +1,21 @@
+.krishna{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin:20px;
+}
+.shiva{
+    width:250px;
+    padding:16px;
+    border-radius: 5px;
+    box-shadow: 5px 10px grey;
+}
+.shiva img{
+   height: 250px;
+   width: 100%;
+   object-fit: contain;
+}
+.shiva {
+    line-height:150%;
+    margin-bottom:120px;
+}

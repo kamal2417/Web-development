@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ nav{
+    background-color: #333;
+    overflow: hidden;
+}
+ nav a{
+    float: left;
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding:14px 20px;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: #0d9eec;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
